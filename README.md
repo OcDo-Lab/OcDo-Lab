@@ -1,29 +1,24 @@
-# mowhn 👾
+# OcDo Lab
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
-#!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
-class Kid:
-
+class about:
     def __init__(self):
-        self.name = "mowhn"
-        self.role = "Kid"
-        self.language_spoken = ["English"]
+        self.lab_name = "OcDo Lab"
+        self.role = "scientist"
 
     def say_hi(self):
-        print("Welcome to my world of development! I break things, code them, and learn as I grow.")
+        print(f"Welcome to OcDo Lab! It's my own lab. And in my own lab I’m the only one scientist.")
 
-
-me = Kid()
+me = about()
 me.say_hi()
 ```
 
 ## About Me?
 
-I’m a **kid** who loves to **learn**, **code**, and **build**. From experimenting. I focus on **gaining knowledge** and **creating projects** for fun.
+I’m a curious self-called **scientist** who loves to **learn** NOT by memorizing but by **Experimenting**, **explore**, and **build**. From experimenting. I focus on crafting something **new AND unique** and **creating projects** for fun.
 
 ---
 
