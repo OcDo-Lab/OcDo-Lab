@@ -18,7 +18,7 @@ me.say_hi()
 
 ## About Me?
 
-I’m a curious self-called **scientist** who loves to **learn** NOT by memorizing but by **Experimenting**, **explore**, and **build**. From experimenting. I focus on crafting something **new AND unique** and **creating projects** for fun.
+I’m a curious, self-taught **scientist** without a **PhD** who loves to learn not by **memorizing**, but by **experimenting**, **exploring**, and **building**. I focus on creating things that are **NEW** and **UNIQUE**, and I enjoy working on projects to improve myself and share with others.
 
 ---
 
